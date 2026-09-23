@@ -1,5 +1,3 @@
-# AI-Tools-Skill-Up
-
 # What is Artificial Intelligence (AI)
 
 ## Comments
