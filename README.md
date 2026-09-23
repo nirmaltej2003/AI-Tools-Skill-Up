@@ -6,6 +6,14 @@ Artificial Intelligence (AI) is a technology that enables machines and computers
 - Processes large amounts of data to identify patterns and insights.
 - Continuously improves performance using experience and feedback.
 
+![image](https://github.com/nirmaltej2003/AI-Tools-Skill-Up/blob/main/Screenshot%202026-09-23%20121634.png)
+![image](https://github.com/nirmaltej2003/AI-Tools-Skill-Up/blob/main/Screenshot%202026-09-23%20121758.png)
+![image](https://github.com/nirmaltej2003/AI-Tools-Skill-Up/blob/main/Screenshot%202026-09-23%20121818.png)
+![image](https://github.com/nirmaltej2003/AI-Tools-Skill-Up/blob/main/Screenshot%202026-09-23%20121831.png)
+![image](https://github.com/nirmaltej2003/AI-Tools-Skill-Up/blob/main/Screenshot%202026-09-23%20121843.png)
+![image](https://github.com/nirmaltej2003/AI-Tools-Skill-Up/blob/main/Screenshot%202026-09-23%20121900.png)
+
+
 ## Real-World Example: How AI Makes a Decision
 
 A simple example of AI is a spam email detector. It checks an email, identifies patterns and predicts whether it is spam.
